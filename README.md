@@ -28,3 +28,11 @@ You can set list of contacts to receive trigger from likewise you can set custom
 
 * Unfinished Features:
 	1. Email service.
+
+* Screenshots
+
+<img src="Find My Device/Thumbnail.png" alt="screenshot" width="auto" height="300px"/>
+<img src="Find My Device/Main Screen.png" alt="screenshot" width="auto" height="300px"/>
+<img src="Find My Device/Service Screen.png" alt="screenshot" width="auto" height="300px"/>
+<img src="Find My Device/Password.png" alt="screenshot" width="auto" height="300px"/>
+<img src="Find My Device/About Screen.png" alt="screenshot" width="auto" height="300px"/>
